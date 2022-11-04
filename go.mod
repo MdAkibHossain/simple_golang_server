@@ -1,3 +1,3 @@
-module 1_go_server
+module simple_golang_server
 
-go 1.18
+go 1.19
